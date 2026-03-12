@@ -12,7 +12,6 @@ I’m a *Student* currently building modern and responsive websites.
 Passionate about *creating efficient web applications* and *digital marketing*.  
 Exploring new technologies and improving my *full-stack* and *machine learning* skills.  
 Reach me at: *gadyalesakshi@gmail.com*
-
 ---
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sakshi__sg_9/) 
