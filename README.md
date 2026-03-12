@@ -1,4 +1,5 @@
-# <div align="center">👋 Hi, I’m *sakshi Gadyale*</div>
+# <div align="center">👋 Hi, I’m 
+*sakshi Gadyale*</div>
 
 ---
 
@@ -15,7 +16,7 @@ Reach me at: *gadyalesakshi@gmail.com*
 
 ---
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sakshi_1_0_1/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sakshi__sg_9/) 
 
 
 
